@@ -59,7 +59,7 @@ I believe cybersecurity requires continuous learning and hands-on practice. I us
 
 ## 📫 Connect With Me
 
-GitHub: [Your GitHub Profile URL]
+GitHub:
 
 ---
 
