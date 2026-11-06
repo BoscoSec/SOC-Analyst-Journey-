@@ -1,0 +1,12 @@
+# 8. Practical Skills to Develop
+
+My next practical exercises:
+
+- [ ] Use nslookup to investigate DNS resolution.
+- [ ] Use ipconfig to inspect network configuration.
+- [ ] Use ping to test network connectivity.
+- [ ] Use netstat to inspect network connections.
+- [ ] Use Wireshark to capture network packets.
+- [ ] Identify TCP three-way handshakes.
+- [ ] Analyse DNS queries in Wireshark.
+- [ ] Investigate firewall allow/deny logs.
